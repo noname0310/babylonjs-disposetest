@@ -9,8 +9,8 @@
     "author": "noname0310",
     "license": "MIT",
     "devDependencies": {
-        "@babylonjs/core": "^7.15.1",
-        "@babylonjs/materials": "^7.15.1",
+        "@babylonjs/core": "7.26.0",
+        "@babylonjs/materials": "7.26.0",
         "@typescript-eslint/eslint-plugin": "^7.16.1",
         "@typescript-eslint/parser": "^7.16.1",
         "eslint": "^8.57.0",
